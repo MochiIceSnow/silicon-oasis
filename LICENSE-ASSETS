@@ -1,0 +1,50 @@
+Silicon Oasis — Asset License
+=============================
+
+All files under `assets/` (art, audio, video, and written content) are licensed
+under the **PolyForm Strict License 1.0.0**.
+
+  SPDX identifier : PolyForm-Strict-1.0.0
+  Full legal text : https://polyformproject.org/licenses/strict/1.0.0
+
+The summary below is informational only. The full license text governs.
+
+What you may do
+---------------
+- Use these assets for **non-commercial purposes** (playing, studying, researching).
+
+What you may not do
+-------------------
+- **Modify** these assets.
+- **Distribute** copies of these assets.
+- **Use** these assets commercially.
+
+Content creation exception
+--------------------------
+Recording gameplay, streaming, clipping videos, and posting screenshots are
+permitted — including monetization on video platforms (ads, donations,
+memberships, sponsorships). Using in-game music and sound effects inside such
+videos is also permitted.
+
+This exception covers *content about the game*. It does not cover extracting
+art, audio or video assets for use in your own works, nor redistributing them
+as asset packs, music packs or model packs.
+
+Custom textures
+---------------
+You may create and share entirely original textures that replace in-game
+appearance, provided the pack contains **none** of the original assets — no
+recolored, filtered, cropped or traced versions of them.
+
+Style similarity is not a violation. Copying expression is. The project author
+reserves the final judgement on substantial similarity; the remedy is removal
+of the offending pack, not account penalties.
+
+Code
+----
+Source code under `src/` is licensed separately under the **MIT License**.
+See LICENSE.
+
+Contact
+-------
+For commercial licensing or any other permission, contact the author.
